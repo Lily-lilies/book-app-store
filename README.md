@@ -22,11 +22,11 @@ This app has to parts: The first part is where you add a book title, author, pag
 1.VS Code
 # Author
 # KABAHIRE Liliane
-[Github: Lily-lilies](https://github.com/patsicko)
+[Github: Lily-lilies](https://github.com/Lily-lilies)
 
 https://github.com/Lily-lilies
 
-[LinkedIn: Lily-lilies](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
+[LinkedIn: Lily-lilies](https://www.linkedin.com/in/kabahire-liliane-a7851a124/)
 
 https://www.linkedin.com/in/kabahire-liliane-a7851a124/
 
