@@ -30,7 +30,7 @@ https://github.com/Lily-lilies
 
 https://www.linkedin.com/in/kabahire-liliane-a7851a124/
 
-[Twitter: @Lily-lilies](https://twitter.com/patsicko)
+[Twitter: @Lily-lilies](https://twitter.com/Lily-lilies)
 
 https://twitter.com/patsicko
 
