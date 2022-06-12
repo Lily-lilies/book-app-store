@@ -7,10 +7,10 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Screen shoot
 ![Patrick](https://user-images.githubusercontent.com/106868891/173237829-da6d260b-1f6e-423e-a10b-01264ee78605.png)
 # Build with
-HTML5: 4.3%(*)
-CSS3:6.8%(*)
-SASS/SCSS: 5.6%(*)
-(*)JavaScript:83.3%
+1 HTML5: 4.3%
+2 CSS3:6.8%
+3 SASS/SCSS: 5.6%
+4 JavaScript:83.3%
 
 
 
