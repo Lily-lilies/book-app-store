@@ -27,9 +27,6 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 https://github.com/Lily-lilies
 
-[LinkedIn: Lily-lilies](https://www.linkedin.com/in/kabahire-liliane-a7851a124/)
-
-https://www.linkedin.com/in/kabahire-liliane-a7851a124/
 
 [Twitter: @Lily-lilies](https://twitter.com/Lily-lilies)
 
