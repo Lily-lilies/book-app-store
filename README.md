@@ -27,14 +27,10 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 https://github.com/Lily-lilies
 
-
-[Twitter: @Lily-lilies](https://twitter.com/Lily-lilies)
-
-https://twitter.com/patsicko
-
 [Facebook: Liliane Kabahire](https://web.facebook.com/bebekalimba.lily)
 
 https://web.facebook.com/bebekalimba.lily
+
 [Instagram:lilianebkabahire](https://www.instagram.com/lilianebkabahire/)
 
 https://www.instagram.com/lilianebkabahire/
