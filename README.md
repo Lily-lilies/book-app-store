@@ -26,11 +26,11 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 https://github.com/patsicko
 
-[LinkedIn: Manibaho Patrick](https://github.com/patsicko)
+[LinkedIn: Manibaho Patrick](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
 
 https://www.linkedin.com/in/manibaho-patrick-a7851a124/
 
-[Twitter: @Patsicko]
+[Twitter: @Patsicko](https://twitter.com/patsicko)
 
 https://twitter.com/patsicko
 
