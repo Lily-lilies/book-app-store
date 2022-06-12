@@ -21,16 +21,16 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Tools
 1.VS Code
 # Author
-# MANIBAHO  Patrick
-[Github: Patsiko](https://github.com/patsicko)
+# KABAHIRE Liliane
+[Github: Lily-lilies](https://github.com/patsicko)
 
-https://github.com/patsicko
+https://github.com/Lily-lilies
 
-[LinkedIn: Manibaho Patrick](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
+[LinkedIn: Lily-lilies](https://www.linkedin.com/in/manibaho-patrick-a7851a124/)
 
-https://www.linkedin.com/in/manibaho-patrick-a7851a124/
+https://www.linkedin.com/in/kabahire-liliane-a7851a124/
 
-[Twitter: @Patsicko](https://twitter.com/patsicko)
+[Twitter: @Lily-lilies](https://twitter.com/patsicko)
 
 https://twitter.com/patsicko
 
